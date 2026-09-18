@@ -1,18 +1,29 @@
 # Python Projects
 
-A collection of Python projects and Jupyter Notebook exercises demonstrating programming fundamentals, problem-solving, and data-related skills.
+A collection of Python projects demonstrating programming fundamentals,
+problem-solving, and practical automation.
 
-## Projects
+## 🐍 Projects
 
-### Calculator
-A simple calculator program built with Python.
+### 🧮 Calculator
 
-**Tools:**
-- Python
-
-### Project 2
-A Python-based automation tool that organizes files by automatically sorting them into folders based on their file types, making file management faster and more organized.
+A simple calculator built with Python that performs basic arithmetic
+operations.
 
 **Tools:**
 - Python
 - Jupyter Notebook
+
+### 📂 File Sorter
+
+An automated file organization program that sorts files into folders
+based on their file types.
+
+**Tools:**
+- Python
+- Jupyter Notebook
+
+## 📁 Files
+
+- `BMI_Calculator.ipynb` — Python calculator project
+- `File_Sorter.ipynb` — Automated file sorting project
